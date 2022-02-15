@@ -1,6 +1,6 @@
 # TRIPCOST
 
-A simple REST API using Node.js, Express and MongoDB.
+A simple REST API using Node.js, Express and MongoDB. <br />
 credits: [https://flaviocopes.com/rest-api-express-mongodb/](https://flaviocopes.com/rest-api-express-mongodb/)
 
 ### Developement purpose
